@@ -2,7 +2,7 @@
 
 A Python application for placing Market, Limit, and Stop-Market orders on the Binance Futures Testnet (USDT-M). This project uses native `requests` for robust control over API requests, and provides a polished CLI interface using `argparse` and `rich`.
 
-## Project Structure
+## Project Structur
 ```text
 trading_bot/
 ├── bot/
