@@ -20,7 +20,7 @@ trading_bot/
 ## Setup Instructions
 
 1. **Clone or Extract** the project folder.
-2. **Create a Virtual Environment** (Recommended)
+2. **Create a Virtual Environment** (Recommened)
    ```bash
    python -m venv venv
    
